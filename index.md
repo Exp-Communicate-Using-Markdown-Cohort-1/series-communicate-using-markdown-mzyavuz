@@ -4,3 +4,5 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
+
+![Image of Wave](https://picsum.photos/200)
