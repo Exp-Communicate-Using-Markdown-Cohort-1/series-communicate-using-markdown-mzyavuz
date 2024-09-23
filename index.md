@@ -6,3 +6,8 @@
 ###### Header 6
 
 ![Image of Wave](https://picsum.photos/200)
+
+```
+$ git init
+Initialized empty Git repository in /Users/path_new_repo
+```
