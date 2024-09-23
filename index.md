@@ -11,3 +11,7 @@
 $ git init
 Initialized empty Git repository in /Users/path_new_repo
 ```
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
